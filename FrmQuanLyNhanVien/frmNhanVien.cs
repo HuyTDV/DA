@@ -1,0 +1,1 @@
+dgvDanhSachNhanVien_CellMouseClick(dgvDanhSachNhanVien, new DataGridViewCellMouseEventArgs(0, selectedRowIndex, 0, 0, new MouseEventArgs(MouseButtons.Left, 1, 0, 0, 0)));          
